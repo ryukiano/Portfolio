@@ -15,13 +15,13 @@ hr {
     margin: 2rem 0rem;
 }
 
-/** spaces **/
+
 
 .margin-md {
     margin: 2rem;
 }
 
-/** container **/
+
 .container {
     padding: 0rem 1rem;
 }
@@ -33,13 +33,12 @@ hr {
 .section .container-center {
     text-align: center;
 }
-/** links **/
+
 .link {
     box-sizing: border-box;
     text-decoration: none;
     padding: 0.5rem 1rem;
-    /* margin-top: 5rem;
-    margin-bottom: 1rem; */
+    
 }
 
 .link-primary {
@@ -54,9 +53,7 @@ hr {
     border: 1px solid var(--primary-color);
 }
 
-/** look into BEM naming convention for CSS **/
 
-/** lists **/
 
 .list-non-bullet {
     list-style: none;
@@ -67,7 +64,7 @@ hr {
     padding: 0rem 0.5rem;
 }
 
-/** navigation **/
+
 
 .navigation {
     background-color: var(--primary-color);
@@ -92,7 +89,7 @@ hr {
     font-weight: bold;
 }
 
-/** header **/
+
 
 .hero {
     padding: 2rem;
@@ -116,7 +113,7 @@ hr {
     color: var(--primary-color);
 }
 
-/** sections **/
+
 
 .section {
     padding: 2rem;
@@ -131,7 +128,7 @@ hr {
     background-color: var(--off-white);
 }
 
-/** footers **/
+
 
 .footer {
     background-color: var(--primary-color);

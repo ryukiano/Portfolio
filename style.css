@@ -150,3 +150,12 @@ hr {
 .footer ul {
     padding-inline-start: 0px;
 }
+.post {
+    background-color: #ECFDF5;
+    padding: 1rem 1rem;
+    border-radius: 1rem 0rem;
+    margin-top: 4rem;
+    margin-left: 2rem;
+    margin-right: 1rem;
+}
+
